@@ -6,7 +6,8 @@ public class MyClass {
 		System.out.println("Hello Git!");		
 	
 		System.out.println("master 에서 수정");
-
+		System.out.println("helo+");
+		System.out.println("say eeeeehelo");
 
 	}	
 }
