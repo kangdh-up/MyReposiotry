@@ -3,7 +3,9 @@ package mygit;
 public class b {
 
 	public b() {
-		// TODO Auto-generated constructor stub
+		System.out.println("Bob에서 수정");
+		System.out.println("b를 수정하는중 6단계");
+		
 	}
 
 }
